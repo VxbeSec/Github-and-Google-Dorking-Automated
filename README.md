@@ -8,7 +8,7 @@ Use This Script to Automate Dorking
   - git clone https://github.com/VxbeSec/Github-Google-Dorking-Automated-.git
 
 
-- How TO USE
+- HOW TO USE
   - python3 dorking.py
   - you will be prompted (enter website)
   - Enter Website: "Tesla.com"
