@@ -1,4 +1,4 @@
-# Github-Google-Dorking-Automated
+# Github & Google Dorking (Automated)
 Use This Script to Automate Dorking
 
 - NOTE
