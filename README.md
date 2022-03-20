@@ -2,7 +2,8 @@
 Use This Script to Automate Dorking
 
 - NOTE
-  - You can change the wordlist
+  - You need to have two wordlists in the same folder as the script (githubdorks.txt, googledorks.txt)
+  - You can change the wordlists.
 
 - HOW TO INSTALL
   - git clone https://github.com/VxbeSec/Github-Google-Dorking-Automated-.git
